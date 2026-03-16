@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Isaac Mutumba — Virtual Art Gallery</title>
+
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  </head>
+
+  <body>
+    <!-- HERO (see-through) -->
+    <section class="hero">
+      <div class="hero-bg" aria-hidden="true"></div>
+
+      <div class="hero-card">
+        <p class="hero-kicker">Greetings!</p>
+        <h1>Welcome to my art gallery</h1>
+
+        <div class="hero-actions">
+          <button class="oval-btn" data-open="#winDigital" type="button">DIGITAL ART</button>
+<button class="oval-btn" data-open="#winLinks" type="button">LINKS</button>
+<button class="oval-btn" data-open="#winPaper" type="button">PAPER ART</button>
+        </div>
+
+        <p class="hero-footer">© 2026 Isaac Mutumba</p>
+      </div>
+    </section>
+
+    <!-- Desktop overlay (optional, but nice) -->
+<div class="desktop-layer" aria-hidden="true"></div>
+
+<!-- WINDOW: DIGITAL -->
+<div class="win" id="winDigital" aria-hidden="true" style="top: 12vh; left: 10vw;">
+  <div class="win-bar" data-drag-handle>
+    <span class="win-title">digital art</span>
+    <button class="win-close" type="button" data-close="#winDigital">[x]</button>
+  </div>
+  <div class="win-body">
+    <div id="digitalGrid" class="art-grid"></div>
+  </div>
+</div>
+
+<!-- WINDOW: LINKS -->
+ <div class="win" id="winLinks" aria-hidden="true" style="top: 22vh; left: 22vw;">
+  <div class="win-bar" data-drag-handle>
+    <span class="win-title">links</span>
+    <button class="win-close" type="button" data-close="#winLinks">[x]</button>
+  </div>
+  <a class="link-card linkedin"
+     href="https://www.linkedin.com/in/imutumba/"
+     target="_blank"
+     rel="noopener noreferrer">
+     <i class="fa-brands fa-linkedin"></i>
+     <span>LinkedIn</span>
+  </a>
+
+  <a class="link-card instagram"
+     href="https://www.instagram.com/famxloll"
+     target="_blank"
+     rel="noopener noreferrer">
+     <i class="fa-brands fa-instagram"></i>
+     <span>Instagram</span>
+  </a>
+
+  <a class="link-card email"
+     href="mailto:imutumba@gmu.edu">
+     <i class="fa-solid fa-envelope"></i>
+     <span>Email</span>
+  </a>
+
+</div>
+
+<!-- WINDOW: PAPER -->
+<div class="win" id="winPaper" aria-hidden="true" style="top: 16vh; left: 45vw;">
+  <div class="win-bar" data-drag-handle>
+    <span class="win-title">paper art</span>
+    <button class="win-close" type="button" data-close="#winPaper">[x]</button>
+  </div>
+  <div class="win-body">
+    <div id="paperGrid" class="art-grid"></div>
+  </div>
+</div>
+
+    <script src="./js/app.js" defer></script>
+  </body>
+</html>
