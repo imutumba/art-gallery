@@ -1,0 +1,273 @@
+[
+  {
+    "id": "digital-01",
+    "title": "valentine's day Commission",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/commission.jpg",
+    "full": "assets/images/digital/commission.jpg",
+    "description": ""
+  },
+  {
+    "id": "digital-02",
+    "title": "rough draft",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/draft.jpg",
+    "full": "assets/images/digital/draft.jpg",
+    "description": "quick sketches I drew to practice models"
+  },
+  {
+    "id": "digital-03",
+    "title": "Girl",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/girl.jpg",
+    "full": "assets/images/digital/girl.jpg",
+    "description": "a quick sketch I drew to practice drawing faces and hair"
+  },
+  {
+    "id": "digital-04",
+    "title": "Jabber",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/jabber.jpg",
+    "full": "assets/images/digital/jabber.jpg",
+    "description": "A sketch I drew of Jabber, a character in an anime called Gachiakuta"
+  },
+  {
+    "id": "digital-05",
+    "title": "Kill Bill",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/kill-bill.jpg",
+    "full": "assets/images/digital/kill-bill.jpg",
+    "description": "A drawing of the movie Kill Bill, this sketch was pretty interesting to do, im very new to backgrounds"
+  },
+  {
+    "id": "digital-06",
+    "title": "Kimono",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/kimono.jpg",
+    "full": "assets/images/digital/kimono.jpg",
+    "description": "A portrait of a woman wearing a kimono, while wielding a katana"
+  },
+  {
+    "id": "digital-07",
+    "title": "Maki and Sukuna",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/maki.jpg",
+    "full": "assets/images/digital/maki.jpg",
+    "description": "This drawing is referenced from a scene in the anime Jujutsu Kaisen, it was pretty fun to mess around with the perspectives"
+  },
+  {
+    "id": "digital-08",
+    "title": "Siblings",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/mendsisalt.jpg",
+    "full": "assets/images/digital/mendsisalt.jpg",
+    "description": "This is a drawing I made with a picture of me and my sister"
+  },
+  {
+    "id": "digital-09",
+    "title": "Mingo",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/mingo.jpg",
+    "full": "assets/images/digital/mingo.jpg",
+    "description": "This drawing is me messing around with perspectives, but its unfinnished"
+  },
+  {
+    "id": "digital-10",
+    "title": "Sasuke",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/sasuke.jpg",
+    "full": "assets/images/digital/sasuke.jpg",
+    "description": "This is quick sketch of Sasuke, a character from the anime Naruto, I drew this to practice drawing body and proportions"
+  },
+  {
+    "id": "digital-11",
+    "title": "Sukuna",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/sukuna.jpg",
+    "full": "assets/images/digital/sukuna.jpg",
+    "description": "This is a drawing of the king of curses, ryomen sukuna, a character from the anime Jujutsu Kaisen"
+  },
+  {
+    "id": "digital-12",
+    "title": "Unfinished",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/unfinished.jpg",
+    "full": "assets/images/digital/unfinished.jpg",
+    "description": "This is another drawing I made thats experimenting with perspectives, but its still unfinnished"
+  },
+  {
+    "id": "digital-13",
+    "title": "Yuji",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/yuji.jpg",
+    "full": "assets/images/digital/yuji.jpg",
+    "description": "This is a drawing I created of Yuji Itadori, a character in jujutsu kaisen, I drew this to mess around with fighting poses"
+  },
+  {
+    "id": "digital-14",
+    "title": "Yuji 2",
+    "type": "digital",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/digital/yuji-2.jpg",
+    "full": "assets/images/digital/yuji-2.jpg",
+    "description": "This is a second drawing of Yuji Itadori, a character in jujutsu kaisen, I drew this to continue practicing exaterated perspective"
+  },
+
+  {
+    "id": "paper-01",
+    "title": "Gojo Satoru",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-01.jpg",
+    "full": "assets/images/paper/paper-01.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-02",
+    "title": "Killua zoldyck",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-02.jpg",
+    "full": "assets/images/paper/paper-02.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-03",
+    "title": "Killua zoldyck 2.0",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-03.jpg",
+    "full": "assets/images/paper/paper-03.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-04",
+    "title": "Ryomen Sukuna",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-04.jpg",
+    "full": "assets/images/paper/paper-04.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-05",
+    "title": "girl",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-05.jpg",
+    "full": "assets/images/paper/paper-05.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-06",
+    "title": "rockstar",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-06.jpg",
+    "full": "assets/images/paper/paper-06.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-07",
+    "title": "model",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-07.jpg",
+    "full": "assets/images/paper/paper-07.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-08",
+    "title": "Gwen and Miles",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-08.jpg",
+    "full": "assets/images/paper/paper-08.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-09",
+    "title": "Egyptian",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-09.jpg",
+    "full": "assets/images/paper/paper-09.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-10",
+    "title": "Gojo vsSukuna",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-10.jpg",
+    "full": "assets/images/paper/paper-10.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-11",
+    "title": "girl",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-11.jpg",
+    "full": "assets/images/paper/paper-11.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-12",
+    "title": "angel",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-12.jpg",
+    "full": "assets/images/paper/paper-12.jpg",
+    "description": ""
+  },
+  {
+    "id": "paper-13",
+    "title": "Spiderman",
+    "type": "paper",
+    "year": "",
+    "tags": [],
+    "thumbnail": "assets/images/paper/paper-13.jpg",
+    "full": "assets/images/paper/paper-13.jpg",
+    "description": ""
+  }
+]
